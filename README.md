@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+We analysed the crime data for two large US cities, namely Boston, Los Angeles. The analysis is for the month of April and July 2015. We took the two datasets from two different sources mentioned below and transformed them to create the datasets about the Incident Details, Offense Details and the Location Details. We used the transformed tables to find out the top types of offenses and produced the heat map of where the crimes happened in respective cities. Finally we loaded the analysed data into the sqlite database. 
 
 ### Extract 
 
