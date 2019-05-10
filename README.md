@@ -1,12 +1,14 @@
-# ETLproject - Crime Data Analysis:
+# ETLproject - TECHNICAL REPORT- Crime Data Analysis
 
 ## Introduction
 
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
 ### Extract 
 
-[Boston Data](https://www.google.com "Google's Homepage")
+[Crimes in Boston](https://www.kaggle.com/ankkur13/boston-crime-data "Crimes in Boston")
 
-[Los Angeles Data](https://www.google.com "Google's Homepage")
+[Crime Data from 2010 to Present- Los Angeles](https://data.lacity.org/A-Safe-City/Crime-Data-from-2010-to-Present/y8tr-7khq "Crime Data from 2010 to Present")
 
 ### Transform
 
