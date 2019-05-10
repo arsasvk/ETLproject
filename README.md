@@ -46,10 +46,10 @@ We decided to use SQLlite to load our transformed data, because the data retriev
 
 #### Offense_Details:
 
-| offense_code  | offense_description | 
-| ------------- | ------------------- |
-| Content Cell  | Content Cell        |
-| Content Cell  | Content Cell        |
+| offense_code  | offense_description | City        |
+| ------------- | ------------------- |------------ |
+| Content Cell  | Content Cell        |Content Cell |
+| Content Cell  | Content Cell        |Content Cell |
 
 #### Location_Details:
 
@@ -65,7 +65,7 @@ We decided to use SQLlite to load our transformed data, because the data retriev
 
 <img src="https://github.com/arsasvk/ETLproject/blob/Sadhana/Images/Boston-Heatmap.png" alt="Boston Heatmap" height="50%" width="50%">
 
-<img src="https://github.com/arsasvk/ETLproject/blob/master/Images/Screen%20Shot%202019-05-09%20at%206.49.01%20PM.png" alt="Offense in the month of July 2015" height="50%" width="50%">
+<img src="https://github.com/arsasvk/ETLproject/blob/Sadhana/Images/LA%20Heatmap.png" alt="LA Heatmap" height="50%" width="50%">
 
 
 ### Built With
