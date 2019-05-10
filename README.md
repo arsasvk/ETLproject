@@ -33,14 +33,14 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | 
 
-#### Offense_Details
+#### Offense_Details:
 
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-#### Location_Details
+#### Location_Details:
 
 | First Header  | Second Header |
 | ------------- | ------------- |
