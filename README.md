@@ -38,10 +38,10 @@ We decided to use SQLlite to load our transformed data, because the data retriev
 #### Incident_Details:
 
 
-| incident_num  | occured_on_date | street       | ofense_code     |offense_code     |
-| ------------- | --------------- |------------- | --------------- | --------------- |
-| Content Cell  | Content Cell    |Content Cell  | Content Cell    | Content Cell    |
-| Content Cell  | Content Cell    | Content Cell | Content Cell    | Content Cell    |
+| incident_num  | occured_on_date | street       | offense_code    |
+| ------------- | --------------- |------------- | --------------- |
+| Content Cell  | Content Cell    |Content Cell  | Content Cell    |
+| Content Cell  | Content Cell    | Content Cell | Content Cell    |
 
 
 #### Offense_Details:
