@@ -33,4 +33,16 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 
+### Built With
+
+* Pandas
+* Matplotlib
+* SQL Alchemy
+* SQLlite
+
+###Author 
+
+Sadhana Kulkarni
+Meenakshi Nadimuthu
+
 
