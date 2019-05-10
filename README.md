@@ -2,7 +2,8 @@
 
 ## Introduction
 
-We analysed the crime data for two large US cities, namely Boston, Los Angeles. The analysis is for the month of April and July 2015. We took the two datasets from two different sources mentioned below and transformed them to create the datasets about the Incident Details, Offense Details and the Location Details. We used the transformed tables to find out the top types of offenses and produced the heat map of where the crimes happened in respective cities. Finally we loaded the analysed data into the sqlite database. 
+We analysed the crime data for two large US cities, namely Boston, Los Angeles. The analysis is for the month of July and September 2015. We took the two datasets from two different sources mentioned below and transformed them to create the dataframes about the Incident Details, Offense Details and the Location Details. We loaded the analysed data into the sqlite database.  
+We used the transformed tables to find out the top types of offenses and produced the heat map of where the crimes happened in respective cities. 
 
 ### Extract 
 
