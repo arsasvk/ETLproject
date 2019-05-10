@@ -20,6 +20,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 * The location column had latitude and longitude in the same column so we had to split the values in separate columns
 
+* The data types of the latitude and the longitude columns were by default set to 'string' so we had to convert those columns to 'float' to create the heat map.
+
 
 ### Load
 
