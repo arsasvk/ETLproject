@@ -49,7 +49,10 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ### Visualize 
 
-![alt text](https://github.com/arsasvk/ETLproject/blob/master/Images/Screen%20Shot%202019-05-09%20at%206.47.40%20PM.png "Crime and Frequency" {:height="50%" width="50%"})
+![alt text](https://github.com/arsasvk/ETLproject/blob/master/Images/Screen%20Shot%202019-05-09%20at%206.47.40%20PM.png "Crime and Frequency")
+
+<img src="https://github.com/arsasvk/ETLproject/blob/master/Images/Screen%20Shot%202019-05-09%20at%206.49.01%20PM.png" alt="Offense in the month of July 2015" height="50%" width="50%">
+
 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
