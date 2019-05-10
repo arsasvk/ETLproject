@@ -32,29 +32,33 @@ We decided to choose July and September of 2015 as those timeframes were common 
 
 ## Load
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+We decided to use SQLlite to load our transformed data, because the data retrieved from the csv files are structured. We used SQLAlchemy to interact with the SQLlite databse. The database was named as crime.db. We created "Incident_Details", "Offense_Details" and "Location_Details" to best represent the data from transformed dataset. 
+
 
 #### Incident_Details:
 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | 
+| incident_num  | occured_on_date | street       | ofense_code     |offense_code     |
+| ------------- | --------------- |------------- | --------------- | --------------- |
+| Content Cell  | Content Cell    |Content Cell  | Content Cell    | Content Cell    |
+| Content Cell  | Content Cell    | Content Cell | Content Cell    | Content Cell    |
+
 
 #### Offense_Details:
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| offense_code  | offense_description | 
+| ------------- | ------------------- |
+| Content Cell  | Content Cell        |
+| Content Cell  | Content Cell        |
 
 #### Location_Details:
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| location_num  | lat             | long         | street          | city           |
+| ------------- | --------------- |------------- | --------------- | --------------- |
+| Content Cell  | Content Cell    |Content Cell  | Content Cell    | Content Cell    |
+| Content Cell  | Content Cell    | Content Cell | Content Cell    | Content Cell    |
+
+
 
 ## Visualize 
 
