@@ -2,14 +2,19 @@
 
 ## Introduction
 
-We analysed the crime data for two large US cities, namely Boston, Los Angeles. The analysis is for the month of July and September 2015. We took the two datasets from two different sources mentioned below and transformed them to create the dataframes about the Incident Details, Offense Details and the Location Details. We loaded the analysed data into the sqlite database.  
-We used the transformed tables to find out the top types of offenses and produced the heat map of where the crimes happened in respective cities. 
+We analysed the crime data for two large US cities, namely Boston, Los Angeles. For the scope of this project, we concentrated on July and September 2015 data. We took two datasets from two different sources mentioned below and transformed them to create the dataframes about the Incident Details, Offense Details and the Location Details. We loaded the analysed data into the sqlite database.  
+Loaded table data is used to Visualize such as "To find out the top types of offenses" , "Heat map of where the crimes happened in respective cities". 
 
 ### Extract 
 
+Our first dataset is from Kaggle.com.  This dataset contain "Crimes in Boston"
 [Crimes in Boston](https://www.kaggle.com/ankkur13/boston-crime-data "Crimes in Boston")
 
+Our second dataset is from data.lacity.org which has data of Crimes in LA from the year 2010 to present. 
+
 [Crime Data from 2010 to Present- Los Angeles](https://data.lacity.org/A-Safe-City/Crime-Data-from-2010-to-Present/y8tr-7khq "Crime Data from 2010 to Present")
+
+We decided to choose July and September of 2015 as those timeframes were common between the dataset and had adequate amount of data needed for the project.
 
 ### Transform
 
