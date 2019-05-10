@@ -8,6 +8,7 @@ Loaded table data is used to Visualize such as "To find out the top types of off
 ### Extract 
 
 Our first dataset is from Kaggle.com.  This dataset contain "Crimes in Boston"
+
 [Crimes in Boston](https://www.kaggle.com/ankkur13/boston-crime-data "Crimes in Boston")
 
 Our second dataset is from data.lacity.org which has data of Crimes in LA from the year 2010 to present. 
