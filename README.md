@@ -29,11 +29,14 @@ We decided to choose July and September of 2015 as those timeframes were common 
 
 * The data types of the latitude and the longitude columns were by default set to 'string' so we had to convert those columns to 'float' to create the heat map.
 
+* We had to rename the columns to common column names so that two cities dataframes can be inserted to the same table
+
 
 ## Load
 
 We decided to use SQLlite to load our transformed data, because the data retrieved from the csv files are structured. We used SQLAlchemy to interact with the SQLlite databse. The database was named as crime.db. We created "Incident_Details", "Offense_Details" and "Location_Details" to best represent the data from transformed dataset. 
 
+Provided below is the data of each table we created , after we retrieved the loaded data from SQLlite database and converted to DataFrames. 
 
 #### Incident_Details:
 
