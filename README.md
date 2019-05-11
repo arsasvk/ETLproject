@@ -1,4 +1,4 @@
-# ETLproject - TECHNICAL REPORT- Crime Data Analysis
+# ETL Project - TECHNICAL REPORT- Crime Data Analysis
 
 ## Introduction
 
