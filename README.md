@@ -59,10 +59,14 @@ We decided to use SQLlite to load our transformed data, because the data retriev
 
 #### Location_Details:
 
-| location_num  | lat             | long         | street          | city           |
+| LOCATION_NUM  | CITY            | LAT          | LONG            | STREET          |
 | ------------- | --------------- |------------- | --------------- | --------------- |
-| Content Cell  | Content Cell    |Content Cell  | Content Cell    | Content Cell    |
-| Content Cell  | Content Cell    | Content Cell | Content Cell    | Content Cell    |
+| 1             | Boston          |42.31514179   | -71.06704709    | COLUMBIA RD     |
+| 2             | Boston          |42.34438811   | -71.1405858     | ALLSTON ST      |
+| 3             | Boston          |42.30443502   | -71.06862907    | TOPLIFF ST      |
+| 4             | Boston          |42.29089749   | -71.06156671    | SEMONT RD       |
+| 5             | Boston          |42.27882383   | -71.09777223    | COLORADO ST     |
+
 
 
 
