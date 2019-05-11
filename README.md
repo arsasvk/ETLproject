@@ -38,13 +38,13 @@ We decided to use SQLlite to load our transformed data, because the data retriev
 #### Incident_Details:
 
 
-| incident_num  | occured_on_date   | street                          | offense_code    |
+|INCIDENT_NUMBER| OCCURRED_ON_DATE  | STREET                          | OFFENSE_CODE    |
 | ------------- | ---------------   |--------------------------       | --------------- |
-| I152105605	  |2015-09-01 00:00:00|	CLEVELAND PL	2629              |Boston           |           
-| I152072583	  |2015-09-01 00:00:00|	SELDEN ST	3114	                |Boston           |
-| I152079669	  |2015-09-01 00:00:00|	THOMAS PARK	3115                |Boston           |
-| I162077971	  |2015-09-01 00:00:00|	COLONEL MICHAEL J. MCDONO	1106	|Boston           |
-| I162087104	  |2015-09-01 00:00:00|	FILOMENA RD	1107	              |Boston           |
+| I152105605	  |2015-09-01 00:00:00|	CLEVELAND PL	                  |2629             |           
+| I152072583	  |2015-09-01 00:00:00|	SELDEN ST	    	                |3114             |
+| I152079669	  |2015-09-01 00:00:00|	THOMAS PARK	                    |3115             |
+| I162077971	  |2015-09-01 00:00:00|	COLONEL MICHAEL J. MCDONO	      |1106             |
+| I162087104	  |2015-09-01 00:00:00|	FILOMENA RD		                  |1107             |
 
 
 #### Offense_Details:
