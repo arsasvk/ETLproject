@@ -38,21 +38,24 @@ We decided to use SQLlite to load our transformed data, because the data retriev
 #### Incident_Details:
 
 
-|INCIDENT_NUMBER| OCCURRED_ON_DATE  | STREET                          | OFFENSE_CODE    |
-| ------------- | ---------------   |--------------------------       | --------------- |
-| I152105605	  |2015-09-01 00:00:00|	CLEVELAND PL	                  |2629             |           
-| I152072583	  |2015-09-01 00:00:00|	SELDEN ST	    	                |3114             |
-| I152079669	  |2015-09-01 00:00:00|	THOMAS PARK	                    |3115             |
-| I162077971	  |2015-09-01 00:00:00|	COLONEL MICHAEL J. MCDONO	      |1106             |
-| I162087104	  |2015-09-01 00:00:00|	FILOMENA RD		                  |1107             |
+  | ID |INCIDENT_NUMBER| OCCURRED_ON_DATE  | STREET                         | OFFENSE_CODE    |
+  | -- | ------------- | ---------------   |--------------------------------| --------------- |
+  | 1  | I152105605	   |2015-09-01 00:00:00|	CLEVELAND PL	                |2629             |           
+  | 2  | I152072583	   |2015-09-01 00:00:00|	SELDEN ST	    	              |3114             |
+  | 3  | I152079669	   |2015-09-01 00:00:00|	THOMAS PARK	                  |3115             |
+  | 4  | I162077971	   |2015-09-01 00:00:00|	COLONEL MICHAEL J. MCDONO	    |1106             |
+  | 5  |I162087104	   |2015-09-01 00:00:00|	FILOMENA RD		                |1107             |
 
 
 #### Offense_Details:
 
-| offense_code  | offense_description | City        |
-| ------------- | ------------------- |------------ |
-| Content Cell  | Content Cell        |Content Cell |
-| Content Cell  | Content Cell        |Content Cell |
+|OFFENSE_NUM| OFFENSE_CODE  | OFFENSE_DESCRIPTION             |
+|---------- | ------------- | --------------------------------|
+| 1         |	2629	        | HARASSMENT                      |
+| 2         | 1102	        | FRAUD - FALSE PRETENSE / SCHEME |
+| 3         |	1102	        | FRAUD - FALSE PRETENSE / SCHEME |
+| 4         |	1102	        | FRAUD - FALSE PRETENSE / SCHEME |
+| 5         |	1107	        | FRAUD - IMPERSONATION           |
 
 #### Location_Details:
 
