@@ -78,7 +78,7 @@ Provided below is the data of each table we created , after we retrieved the loa
 
 <img src="https://github.com/arsasvk/ETLproject/blob/Sadhana/Images/Boston-Heatmap.png" alt="Boston Heatmap" height="50%" width="50%">
 
-<img src="https://github.com/arsasvk/ETLproject/blob/Sadhana/Images/LA%20Heatmap.png" alt="LA Heatmap" height="50%" width="50%">
+<img src="https://github.com/arsasvk/ETLproject/blob/Sadhana/Images/LA%20Heatmap.png" alt="LA Heatmap" height="70%" width="50%">
 
 
 ### Built With
