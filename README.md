@@ -77,7 +77,8 @@ Provided below is the data of each table we created , after we retrieved the loa
 
 <img src="https://github.com/arsasvk/ETLproject/blob/Sadhana/Images/Boston-Heatmap.png" alt="Boston Heatmap" height="50%" width="50%">
 <img src="https://github.com/arsasvk/ETLproject/blob/Sadhana/Images/LA%20Heatmap.png" alt="LA Heatmap" height="70%" width="50%">
-The above Boston heatmap shows that the crime affected areas are not localized for the month of April 2015. The Los Angeles heatmap shows that the crime affected areas are localized for the month of April 2015 and LA is more crime proned than Boston.
+The above Boston heatmap shows that the crime affected areas are not localized for the month of April 2015. The Los Angeles heatmap shows that the crime affected areas are localized as well as spread over larger areas for the month of April 2015 and LA is more crime proned than Boston. 
+
 
 
 <img src="https://github.com/arsasvk/ETLproject/blob/master/Images/Street%20names%20with%20Top%20ten%20highest%20crime%20counts_September%202015.png" alt="Streets Vs Crime counts in Sep 2015" height="50%" width="50%">
