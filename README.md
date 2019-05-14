@@ -76,9 +76,14 @@ Provided below is the data of each table we created , after we retrieved the loa
 ## Visualize 
 
 
-<img src="https://github.com/arsasvk/ETLproject/blob/Sadhana/Images/Boston-Heatmap.png" alt="Boston Heatmap" height="50%" width="50%">
+* <img src="https://github.com/arsasvk/ETLproject/blob/Sadhana/Images/Boston-Heatmap.png" alt="Boston Heatmap" height="50%" width="50%">
 
-<img src="https://github.com/arsasvk/ETLproject/blob/Sadhana/Images/LA%20Heatmap.png" alt="LA Heatmap" height="70%" width="50%">
+* <img src="https://github.com/arsasvk/ETLproject/blob/Sadhana/Images/LA%20Heatmap.png" alt="LA Heatmap" height="70%" width="50%">
+
+
+* <img src="https://github.com/arsasvk/ETLproject/blob/master/Images/Street%20names%20with%20Top%20ten%20highest%20crime%20counts_September%202015.png" alt="Streets Vs Crime counts in Sep 2015" height="50%" width="50%">
+
+This visualization show a comparison of top ten streets with most crime counts between the Boston and Los Angeles during Sept 2015. 
 
 
 ### Built With
